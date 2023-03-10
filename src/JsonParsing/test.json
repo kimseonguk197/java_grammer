@@ -1,0 +1,18 @@
+{
+  "nation": "Korea",
+  "school": {"number1": "school1", "number2": "school2"},
+  "students": [
+    {
+      "id": 1,
+      "name": "student1",
+      "class": "I",
+      "city": "Delhi"
+    },
+    {
+      "id": 2,
+      "name": "student2",
+      "class": "II",
+      "city": "Mumbai"
+    }
+  ]
+}
