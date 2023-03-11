@@ -1,7 +1,7 @@
 package Class_Lecture;
 
 
-public class ClassIntro {
+public class ClassInstanceDifference1 {
 //    클래스 변수
     static int total=0;
 //    객체변수
